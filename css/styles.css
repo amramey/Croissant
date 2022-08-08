@@ -2,3 +2,7 @@ body {
   background-color: #e0d3ff;
   text-align: center;
 }
+a {
+  color: blueviolet;
+  margin: 0 10px;
+}
